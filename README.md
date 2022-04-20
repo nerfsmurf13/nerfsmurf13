@@ -8,7 +8,7 @@ const edwardWilliams = {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
-        it: ["Desktop Admin", "Virtualization", "Chrome Admin Console"],
+        it: ["Desktop Admin", "Virtualization", "Chrome Admin Console", "Active Directory"],
         databases: ["mongo", "MySql", "Firebase"],
         misc: ["selenium", "vue.js", "php", "sass"]
     },
