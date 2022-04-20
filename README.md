@@ -8,10 +8,7 @@ const edwardWilliams = {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        it: ["Desktop Admin", "Virtualization", "Chrome Admin Console"],
         databases: ["mongo", "MySql", "Firebase"],
         misc: ["selenium", "vue.js", "php", "sass"]
     },
