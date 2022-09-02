@@ -3,7 +3,7 @@
 const edwardWilliams = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
-    askMeAbout: ["web development 💾", "tech	💻", "volkswagen 🚗", "aviation ✈️"],
+    askMeAbout: ["web development 💾", "tech 💻", "volkswagen 🚗", "aviation ✈️"],
     technologies: {
         backend: {
             js: ["Node", "Express"],
