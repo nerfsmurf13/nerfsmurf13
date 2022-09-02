@@ -3,14 +3,14 @@
 const edwardWilliams = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "volkswagen", "aviation"],
+    askMeAbout: ["web development ", "tech", "volkswagen", "aviation :airplane:"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        backend: {
+            js: ["Node", "Express"],
         },
         it: ["Desktop Admin", "Virtualization", "Chrome Admin Console", "Active Directory"],
-        databases: ["mongo", "MySql", "Firebase"],
-        misc: ["selenium", "vue.js", "php", "sass"]
+        databases: ["mongoDB", "MySql", "Google Firebase"],
+        misc: ["selenium", "vue.js", "php", "sass", "tailwindcss"]
     },
     architecture: ["Single page applications"],
 };
