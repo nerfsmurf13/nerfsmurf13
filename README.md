@@ -1,7 +1,6 @@
 ### Hi there 👋
 ```
 const edwardWilliams = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
     askMeAbout: ["web development 💾", "tech 💻", "volkswagen 🚗", "aviation ✈️"],
     technologies: {
@@ -12,6 +11,5 @@ const edwardWilliams = {
         databases: ["mongoDB", "MySql", "Google Firebase"],
         misc: ["selenium", "vue.js", "php", "sass", "tailwindcss"]
     },
-    architecture: ["Single page applications"],
 };
 ```
