@@ -1,15 +1,31 @@
 ### Hi there 👋
 ```
 const edwardWilliams = {
-    code: ["Javascript", "Python"],
-    askMeAbout: ["web development 💾", "tech 💻", "volkswagen 🚗", "aviation ✈️"],
-    technologies: {
-        backend: {
-            js: ["Node", "Express"],
-        },
-        it: ["Desktop Admin", "Virtualization", "Chrome Admin Console", "Active Directory"],
-        databases: ["mongoDB", "MySql", "Google Firebase"],
-        misc: ["selenium", "vue.js", "php", "sass", "tailwindcss"]
+  languages: ["Javascript", "Python"],
+  askMeAbout: ["Web Development 💾", "IT 💻", "Volkswagen 🚗", "Aviation ✈️"],
+  basics: ["HTML", "CSS", "Vanilla JS", "Git"],
+  technologies: {
+    webDevelopment: {
+      frontend: ["Vue3", "Tailwind", "SASS"],
+      backend: ["Node.js", "RESTful API", "Authentication"],
     },
+    it: [
+      "Mobile Device Management",
+      "Desktop Admin",
+      "Virtualization",
+      "Chrome Admin Console",
+      "Active Directory",
+    ],
+    databases: ["MongoDB", "MySql", "Google Firebase"],
+    hobbies: [
+      "Selenium",
+      "BeautifulSoup",
+      "Pandas",
+      "PHP",
+      "OpenAI",
+      "StableDiffusion",
+      "Shopify",
+    ],
+  },
 };
 ```
