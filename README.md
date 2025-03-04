@@ -9,9 +9,9 @@ Experienced web developer with 2+ years of technical development experience, pas
 - LinkedIn: [linkedin.com/in/edwardalexanderwilliams](https://linkedin.com/in/edwardalexanderwilliams)
 
 ### 🚀 Featured Projects:
-- [DefineYourDollars](https://link-to-project) - Vue.js, Express.js, MongoDB, TailwindCSS
-- [Course Catalog for Frisco ISD](https://link-to-project) - Vue.js, Tailwind CSS
-- [Attendance Zone Verification](https://link-to-project) - Vanilla JavaScript, CSS, Google Maps API
+- [DefineYourDollars](https://defineyourdollars.com/) - Vue.js, Express.js, MongoDB, TailwindCSS
+- [Course Catalog for Frisco ISD](https://www.friscoisd.org/departments/secondary-instruction/course-offerings/course-catalog) - Vue.js, Tailwind CSS
+- [Attendance Zone Verification](https://www.friscoisd.org/departments/attendance-zones/2024-2025-zones) - Vanilla JavaScript, CSS, Google Maps API
 
 ---
 
